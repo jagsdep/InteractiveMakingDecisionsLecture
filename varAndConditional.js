@@ -152,7 +152,7 @@ while (guessMe < 100){
         guessMe +=3
     }
     guessMe+=22
-    console.log("guessMe is now ${gueesMe}")
+    console.log("guessMe is now ${guessMe}")
 }
 //Modulo is a kind of remainder
 //Modulo can be used to check whther the number is equal or odd
